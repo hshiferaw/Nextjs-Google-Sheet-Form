@@ -1,0 +1,49 @@
+/* styles.module.css */
+
+.lightMode {
+    /* Light mode styles */
+    background-color: #f9fafb;
+    color: #374151;
+  }
+  
+  .lightMode .bg-green-100 {
+    background-color: #d1fae5;
+  }
+  
+  .lightMode .border-green-400 {
+    border-color: #10b981;
+  }
+  
+  .lightMode .text-green-700 {
+    color: #047857;
+  }
+  
+  .lightMode .font-bold {
+    font-weight: 700;
+  }
+  
+  .lightMode .text-2xl {
+    font-size: 1.5rem;
+  }
+  
+  .darkMode {
+    /* Dark mode styles */
+    background-color: #1f2937;
+    color: #f9fafb;
+  }
+  
+  .darkMode .text-white {
+    color: #f9fafb;
+  }
+  
+  .darkMode .bg-gray-700 {
+    background-color: #4b5563;
+  }
+  
+  .darkMode .text-gray-800 {
+    color: #374151;
+  }
+  
+  .darkMode .text-green-700 {
+    color: #047857;
+  }
